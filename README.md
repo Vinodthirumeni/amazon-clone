@@ -67,25 +67,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-
-npx create-react-app amazon-clone
-
-npm install -g firebase-tools
-
-npm install react-router-dom
-
-npm install @material-ui/core
-
-npm install @material-ui/icons
-
-npm i react-currency-format
-
-npm i firebase
-
-firebase > enable >email/password
-
-
-
 PROJECT NAME : Amazon Clone
 
 TOOLS USED : ReactJs,Material UI,Firebase,Context API,React Router DOM,React currency format
